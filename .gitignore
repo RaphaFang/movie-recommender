@@ -1,0 +1,34 @@
+*.class
+*.jar
+*.war
+*.ear
+
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+target/
+bin/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+
+out/
+build/
+
+__pycache__/
+*.py[cod]
+
+# ----------------
+
+row_data/MovieLens 20M Dataset/*
+!row_data/MovieLens 20M Dataset/.gitkeep
+
+row_data/The Movies Dataset/*
+!row_data/The Movies Dataset/.gitkeep
