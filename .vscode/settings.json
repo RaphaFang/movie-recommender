@@ -1,0 +1,32 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  
+  "java.debug.settings.onBuildFailureProceed": true,
+  "python.defaultInterpreterPath": "/Users/fangsiyu/dev-env/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "java.project.sourcePaths": [
+    "rehab",
+    "."
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "username": "root",
+      "name": "local_test",
+      "database": "test_db"
+    }
+  ],
+  "java.project.referencedLibraries": [],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
